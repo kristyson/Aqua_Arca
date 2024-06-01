@@ -15,3 +15,5 @@ O Aqua Arca é um sistema desenvolvido para resolver a falta de acesso fácil e 
 ### Equipe
 
 Leandro - http://github.com/ArknoXI
+Luana - https://github.com/Pedro-Vic3005
+Pedro - https://github.com/Luanalfm
